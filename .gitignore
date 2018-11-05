@@ -1,0 +1,13 @@
+# Terraform variable files
+*.tfvars
+
+# Terraform directory
+.terraform
+
+# Terraform state
+*.tfstate
+*.tfstate.backup
+
+
+#  macOS folder attribute file
+.DS_Store
